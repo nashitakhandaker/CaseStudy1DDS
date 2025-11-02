@@ -14,7 +14,7 @@ library(caret)
 library(scales)
 ```
 
-link to the presentation: https://youtu.be/FpO10GJcLcA
+link to the presentation: https://youtu.be/F2pNPjdHEhM
 
 ## EDA
 
